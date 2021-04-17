@@ -11,3 +11,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.card-info{
+  border-bottom:1px solid rgba(0, 0, 0, 0.125);
+ padding-bottom: 0.3em;
+ margin-bottom: 0.3em;
+}
+.card-info-no{
+float: right;
+}
+
+.card-avatar{
+  border-right: 1px solid rgba(0, 0, 0, 0.125);
+  width: auto;
+  height: auto;
+}
+.card-score{
+  border-left: 1px solid rgba(0, 0, 0, 0.125);
+
+}
