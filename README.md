@@ -3,7 +3,7 @@ this is solution for project two (react redux)
 
 For honesty, I made great use of this source https://github.com/QuadDamn/udacity-would-you-rather-project
 
-#### to run this project must install the following:-
+#### this project have the following dependencies:-
  -    react 
  -    react-bootstrap 
  -    react-dom 
